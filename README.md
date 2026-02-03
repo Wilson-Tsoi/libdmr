@@ -1,3 +1,4 @@
-Turning the original C complier source code written by Dennis Ritchie into a library for complier data stucture.
-Code Style
+# libdmr
+Rewrite the original UNIX V3 C complier source code (Dennis Ritchie) into a library for complier data stucture.
+### Code Style
 Preserve original naming scheme and keep things as intuitive as possible.
